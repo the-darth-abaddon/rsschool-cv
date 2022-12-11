@@ -53,4 +53,4 @@ Professional experience:
  - Collection of statistics and digests from game and near-game resources.
 
 ### English level
-B1
+A2
