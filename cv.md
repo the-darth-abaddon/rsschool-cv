@@ -1,8 +1,7 @@
 # Andrei Potapovich
 ### General information
 Result-orientated Product Manager with 10 years experience in GameDev. I specialize in game publishing and have extensive experience in coordinating work with stakeholders at all stages of a project's life. My strongest point is an excellent understanding of community and player support structure and operation. Also, As an outsourcing team lead I had a broad experience in outsourced work coordination between external and core teams.
-### English level
-B1
+
 ### Contact me
 * Phone number: +375298744232
 * Email: apatapovich2022@gmail.com
@@ -52,3 +51,6 @@ Professional experience:
  - Community functions: communication and help.
  - Support for the content team.
  - Collection of statistics and digests from game and near-game resources.
+
+### English level
+B1
